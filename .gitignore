@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Input
+/Input/
+
+# Intermediate output
+/Intermediate/
+
+# Output
+/Output/
+
+# Markdown files
+/Communication/
